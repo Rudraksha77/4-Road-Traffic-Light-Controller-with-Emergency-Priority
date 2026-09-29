@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="traffic_light_controller_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="traffic_light_controller_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="790.405 ns"></ZoomEndTime>
+      <Cursor1Time time="267.677 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="212"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="80" />
+   <wvobject fp_name="/traffic_light_controller_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/emergency_a" type="logic">
+      <obj_property name="ElementShortName">emergency_a</obj_property>
+      <obj_property name="ObjectShortName">emergency_a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/emergency_b" type="logic">
+      <obj_property name="ElementShortName">emergency_b</obj_property>
+      <obj_property name="ObjectShortName">emergency_b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/emergency_c" type="logic">
+      <obj_property name="ElementShortName">emergency_c</obj_property>
+      <obj_property name="ObjectShortName">emergency_c</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/emergency_d" type="logic">
+      <obj_property name="ElementShortName">emergency_d</obj_property>
+      <obj_property name="ObjectShortName">emergency_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/a_red" type="logic">
+      <obj_property name="ElementShortName">a_red</obj_property>
+      <obj_property name="ObjectShortName">a_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/a_yellow" type="logic">
+      <obj_property name="ElementShortName">a_yellow</obj_property>
+      <obj_property name="ObjectShortName">a_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/a_green" type="logic">
+      <obj_property name="ElementShortName">a_green</obj_property>
+      <obj_property name="ObjectShortName">a_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/b_red" type="logic">
+      <obj_property name="ElementShortName">b_red</obj_property>
+      <obj_property name="ObjectShortName">b_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/b_yellow" type="logic">
+      <obj_property name="ElementShortName">b_yellow</obj_property>
+      <obj_property name="ObjectShortName">b_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/b_green" type="logic">
+      <obj_property name="ElementShortName">b_green</obj_property>
+      <obj_property name="ObjectShortName">b_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/c_red" type="logic">
+      <obj_property name="ElementShortName">c_red</obj_property>
+      <obj_property name="ObjectShortName">c_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/c_yellow" type="logic">
+      <obj_property name="ElementShortName">c_yellow</obj_property>
+      <obj_property name="ObjectShortName">c_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/c_green" type="logic">
+      <obj_property name="ElementShortName">c_green</obj_property>
+      <obj_property name="ObjectShortName">c_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/d_red" type="logic">
+      <obj_property name="ElementShortName">d_red</obj_property>
+      <obj_property name="ObjectShortName">d_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/d_yellow" type="logic">
+      <obj_property name="ElementShortName">d_yellow</obj_property>
+      <obj_property name="ObjectShortName">d_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/d_green" type="logic">
+      <obj_property name="ElementShortName">d_green</obj_property>
+      <obj_property name="ObjectShortName">d_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/emergency_a" type="logic">
+      <obj_property name="ElementShortName">emergency_a</obj_property>
+      <obj_property name="ObjectShortName">emergency_a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/emergency_b" type="logic">
+      <obj_property name="ElementShortName">emergency_b</obj_property>
+      <obj_property name="ObjectShortName">emergency_b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/emergency_c" type="logic">
+      <obj_property name="ElementShortName">emergency_c</obj_property>
+      <obj_property name="ObjectShortName">emergency_c</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/emergency_d" type="logic">
+      <obj_property name="ElementShortName">emergency_d</obj_property>
+      <obj_property name="ObjectShortName">emergency_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/a_red" type="logic">
+      <obj_property name="ElementShortName">a_red</obj_property>
+      <obj_property name="ObjectShortName">a_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/a_yellow" type="logic">
+      <obj_property name="ElementShortName">a_yellow</obj_property>
+      <obj_property name="ObjectShortName">a_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/a_green" type="logic">
+      <obj_property name="ElementShortName">a_green</obj_property>
+      <obj_property name="ObjectShortName">a_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/b_red" type="logic">
+      <obj_property name="ElementShortName">b_red</obj_property>
+      <obj_property name="ObjectShortName">b_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/b_yellow" type="logic">
+      <obj_property name="ElementShortName">b_yellow</obj_property>
+      <obj_property name="ObjectShortName">b_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/b_green" type="logic">
+      <obj_property name="ElementShortName">b_green</obj_property>
+      <obj_property name="ObjectShortName">b_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/c_red" type="logic">
+      <obj_property name="ElementShortName">c_red</obj_property>
+      <obj_property name="ObjectShortName">c_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/c_yellow" type="logic">
+      <obj_property name="ElementShortName">c_yellow</obj_property>
+      <obj_property name="ObjectShortName">c_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/c_green" type="logic">
+      <obj_property name="ElementShortName">c_green</obj_property>
+      <obj_property name="ObjectShortName">c_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/d_red" type="logic">
+      <obj_property name="ElementShortName">d_red</obj_property>
+      <obj_property name="ObjectShortName">d_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/d_yellow" type="logic">
+      <obj_property name="ElementShortName">d_yellow</obj_property>
+      <obj_property name="ObjectShortName">d_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/d_green" type="logic">
+      <obj_property name="ElementShortName">d_green</obj_property>
+      <obj_property name="ObjectShortName">d_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/state" type="array">
+      <obj_property name="ElementShortName">state[3:0]</obj_property>
+      <obj_property name="ObjectShortName">state[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/count" type="array">
+      <obj_property name="ElementShortName">count[31:0]</obj_property>
+      <obj_property name="ObjectShortName">count[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/clk_frequency" type="array">
+      <obj_property name="ElementShortName">clk_frequency[31:0]</obj_property>
+      <obj_property name="ObjectShortName">clk_frequency[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/yellow_time" type="array">
+      <obj_property name="ElementShortName">yellow_time[31:0]</obj_property>
+      <obj_property name="ObjectShortName">yellow_time[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/green_time" type="array">
+      <obj_property name="ElementShortName">green_time[31:0]</obj_property>
+      <obj_property name="ObjectShortName">green_time[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S0" type="array">
+      <obj_property name="ElementShortName">S0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S1" type="array">
+      <obj_property name="ElementShortName">S1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S2" type="array">
+      <obj_property name="ElementShortName">S2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S3" type="array">
+      <obj_property name="ElementShortName">S3[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S3[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S4" type="array">
+      <obj_property name="ElementShortName">S4[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S4[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S5" type="array">
+      <obj_property name="ElementShortName">S5[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S5[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S6" type="array">
+      <obj_property name="ElementShortName">S6[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S6[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S7" type="array">
+      <obj_property name="ElementShortName">S7[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S7[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/emergency_a" type="logic">
+      <obj_property name="ElementShortName">emergency_a</obj_property>
+      <obj_property name="ObjectShortName">emergency_a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/emergency_b" type="logic">
+      <obj_property name="ElementShortName">emergency_b</obj_property>
+      <obj_property name="ObjectShortName">emergency_b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/emergency_c" type="logic">
+      <obj_property name="ElementShortName">emergency_c</obj_property>
+      <obj_property name="ObjectShortName">emergency_c</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/emergency_d" type="logic">
+      <obj_property name="ElementShortName">emergency_d</obj_property>
+      <obj_property name="ObjectShortName">emergency_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/a_red" type="logic">
+      <obj_property name="ElementShortName">a_red</obj_property>
+      <obj_property name="ObjectShortName">a_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/a_yellow" type="logic">
+      <obj_property name="ElementShortName">a_yellow</obj_property>
+      <obj_property name="ObjectShortName">a_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/a_green" type="logic">
+      <obj_property name="ElementShortName">a_green</obj_property>
+      <obj_property name="ObjectShortName">a_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/b_red" type="logic">
+      <obj_property name="ElementShortName">b_red</obj_property>
+      <obj_property name="ObjectShortName">b_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/b_yellow" type="logic">
+      <obj_property name="ElementShortName">b_yellow</obj_property>
+      <obj_property name="ObjectShortName">b_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/b_green" type="logic">
+      <obj_property name="ElementShortName">b_green</obj_property>
+      <obj_property name="ObjectShortName">b_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/c_red" type="logic">
+      <obj_property name="ElementShortName">c_red</obj_property>
+      <obj_property name="ObjectShortName">c_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/c_yellow" type="logic">
+      <obj_property name="ElementShortName">c_yellow</obj_property>
+      <obj_property name="ObjectShortName">c_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/c_green" type="logic">
+      <obj_property name="ElementShortName">c_green</obj_property>
+      <obj_property name="ObjectShortName">c_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/d_red" type="logic">
+      <obj_property name="ElementShortName">d_red</obj_property>
+      <obj_property name="ObjectShortName">d_red</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/d_yellow" type="logic">
+      <obj_property name="ElementShortName">d_yellow</obj_property>
+      <obj_property name="ObjectShortName">d_yellow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/d_green" type="logic">
+      <obj_property name="ElementShortName">d_green</obj_property>
+      <obj_property name="ObjectShortName">d_green</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/state" type="array">
+      <obj_property name="ElementShortName">state[3:0]</obj_property>
+      <obj_property name="ObjectShortName">state[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/count" type="array">
+      <obj_property name="ElementShortName">count[31:0]</obj_property>
+      <obj_property name="ObjectShortName">count[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/clk_frequency" type="array">
+      <obj_property name="ElementShortName">clk_frequency[31:0]</obj_property>
+      <obj_property name="ObjectShortName">clk_frequency[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/yellow_time" type="array">
+      <obj_property name="ElementShortName">yellow_time[31:0]</obj_property>
+      <obj_property name="ObjectShortName">yellow_time[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/green_time" type="array">
+      <obj_property name="ElementShortName">green_time[31:0]</obj_property>
+      <obj_property name="ObjectShortName">green_time[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S0" type="array">
+      <obj_property name="ElementShortName">S0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S1" type="array">
+      <obj_property name="ElementShortName">S1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S2" type="array">
+      <obj_property name="ElementShortName">S2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S3" type="array">
+      <obj_property name="ElementShortName">S3[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S3[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S4" type="array">
+      <obj_property name="ElementShortName">S4[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S4[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S5" type="array">
+      <obj_property name="ElementShortName">S5[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S5[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S6" type="array">
+      <obj_property name="ElementShortName">S6[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S6[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/traffic_light_controller_tb/inst_traffic_light_controller/S7" type="array">
+      <obj_property name="ElementShortName">S7[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S7[3:0]</obj_property>
+   </wvobject>
+</wave_config>
